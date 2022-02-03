@@ -43,5 +43,10 @@
 * [From Collision To Exploitation: Unleashing Use-After-Free Vulnerabilities in Linux Kernel](https://repository.root-me.org/Exploitation%20-%20Syst%C3%A8me/Unix/EN%20-%20From%20collision%20to%20exploitation%3A%20Unleashing%20Use-After-Free%20vulnerabilities%20in%20Linux%20Kernel.pdf)
 * [Kernel Data Attack is a Realistic Security Threat](https://www.eecis.udel.edu/~hnw/paper/kerneldata.pdf)
 * [Randomization can’t stop BPF JIT spray](https://www.blackhat.com/docs/eu-16/materials/eu-16-Reshetova-Randomization-Can%27t-Stop-BPF-JIT-Spray-wp.pdf)
+* [The story of exploiting kmalloc() overflow](https://argp.github.io/public/kmalloc_exploitation.pdf)
+* [Linux 2.6 Kernel Exploits](https://airbus-seclab.github.io/kernsploit/kernel_exploit_syscan07.pdf)
+* [The story of exploiting kmalloc() overflows v.0.2.1](http://www.ouah.org/kmallocstory.html)
+* [Attacking the Core : Kernel Exploiting Notes](http://phrack.org/archives/issues/64/6.txt)
+* [Exploiting Stack Overflows in the Linux Kernel](https://jon.oberheide.org/blog/2010/11/29/exploiting-stack-overflows-in-the-linux-kernel/)
 
 
