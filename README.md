@@ -76,5 +76,4 @@
 * [The Infoleak that (Mostly) Wasn't](https://grsecurity.net/the_infoleak_that_mostly_wasnt)
 * [Linux kernel 2.6.0 to 4.12-rc4 infoleak due to a data race in ALSA timer](https://seclists.org/oss-sec/2017/q2/455)
 * [Linux kernel: CVE-2017-18344: arbitrary-read vulnerability in the timer subsystem](https://www.openwall.com/lists/oss-security/2018/08/09/6)
-* []()
-* []()
+
